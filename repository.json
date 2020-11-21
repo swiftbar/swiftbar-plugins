@@ -1,20 +1,5 @@
 [
     {
-        "category": "BitBar",
-        "plugins": [
-            {
-                "source": "./BitBar/version.12h.rb",
-                "title": "BitBar Version",
-                "author": "Olivier Tille",
-                "author.github": "oliviernt",
-                "desc": "Checks the current BitBar version against the latest from GitHub",
-                "image": "http://i.imgur.com/9BrFhSJ.png",
-                "dependencies": "Ruby",
-                "version": "v0.2.0"
-            }
-        ]
-    },
-    {
         "category": "Music",
         "plugins": [
             {
