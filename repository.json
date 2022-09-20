@@ -2071,13 +2071,29 @@
                 "author": "z0mbix",
                 "author.github": "z0mbix",
                 "version": "1.0"
+            }
+        ]
+    },
+    {
+        "category": "Task Managers",
+        "plugins": [
+            {
+                "source": "./Lifestyle/ToDo/NotePlan3.15m.rb",
+                "title": "To do Today for NotePlan 3",
+                "author": "Jonathan Clark",
+                "author.github": "jgclark",
+                "desc": "Displays today's todo list taken from NotePlan v3 and displayed with customizable color-code. Mark tasks 'done' simply by clicking on them in the menubar drop-down list. This was based on 'Todo.NotePlan' by Richard Guay which in turn was based on 'Todo Colour' plugin by Srdgh.",
+                "image": "https://noteplan.co/static/icon-aef6fdb335c829b1363315ef21c3146d.png",
+                "dependencies": "ruby",
+                "abouturl": "https://noteplan.co/",
+                "version": "v2.2"
             },
             {
                 "source": "./Lifestyle/ToDo/todoNotePlan.15m.rb",
                 "title": "NotePlan Todo in Colour",
                 "author": "Richard Guay",
                 "author.github": "raguay",
-                "desc": "A todo list taken from NotePlan and displayed with customizable color-code. Mark tasks \"done\" simply by clicking on them in the menubar drop-down list. This was based on \"Todo Colour\" plugin by Srdgh.",
+                "desc": "A todo list taken from NotePlan v1 and displayed with customizable color-code. Mark tasks \"done\" simply by clicking on them in the menubar drop-down list. This was based on \"Todo Colour\" plugin by Srdgh.",
                 "image": "http://customct.com/images/NotePlanPlugin-01.png",
                 "dependencies": "ruby",
                 "abouturl": "http://customct.com/bitbar",
